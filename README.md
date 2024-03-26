@@ -55,7 +55,8 @@
 이와 같이 1, 2단계에 거쳐 정상적으로 프로그램이 실행된 것을 확인할 수 있다.
 
 # 전체 코드
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -151,4 +152,5 @@
         }
     </script>
 </body>
-</html> ```
+</html>
+```
